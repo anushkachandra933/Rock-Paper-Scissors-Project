@@ -72,8 +72,3 @@ Feel free to connect or check out more of my projects!
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-
